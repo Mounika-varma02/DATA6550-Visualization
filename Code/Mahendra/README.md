@@ -21,7 +21,7 @@
 
 ## Ethical Considerations
 
-** Starting a y-axis at 15% instead of 0% makes gradual differences look dramatic — a small design choice with a big impact on perception.
+** Starting a y-axis at 15% instead of 0% makes gradual differences look dramatic a small design choice with a big impact on perception.
 ** Dropping the Child age group or filtering out Southampton passengers removes inconvenient context without technically lying about the data.
 ** Titles that claim causation rather than correlation push viewers toward conclusions the data does not actually support.
-** Every chart carries a responsibility to the audience — honest scaling, complete categories, and careful wording are not optional extras, they are the baseline.
+** Every chart carries a responsibility to the audience honest scaling, complete categories, and careful wording are not optional extras, they are the baseline.

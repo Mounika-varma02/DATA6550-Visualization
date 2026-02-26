@@ -1,32 +1,26 @@
 # DATA6550-Visualization
 ## Objective
 
-- The goal of this project is to explore the Titanic dataset and understand survival patterns based on gender, passenger class, and other factors. Another key aim is to demonstrate how visualizations can be both accurate and misleading, and highlight ethical practices in data presentation.
+- The objective of this project is to analyze survival patterns in the Titanic dataset using gender and port of embarkation, and to compare accurate visualizations with an intentionally misleading chart to highlight the importance of ethical and transparent data presentation.
 ## Methods
 
-**Data Source:** Titanic dataset (titanic.csv)
+**Data Processing:** Utilized pandas for cleaning and segmenting the Titanic training dataset ($n=891$).
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+**Visualization:** Employed matplotlib to design and refine pie charts, focusing on two specific dimensions: Gender-Based Survival and Port of Embarkation.
 
-**Process:**
-- Cleaned and preprocessed the data.
-- Performed exploratory data analysis (EDA) to identify patterns.
-- Created accurate visualizations to reflect true proportions.
-- Created misleading visualizations to demonstrate common pitfalls.
-- Documented ethical considerations to guide proper visualization practices.
+**Comparative Analysis:** Developed a "Best Practices" vs. "Deceptive Design" methodology to contrast transparent visualizations with those that use manipulative visual effects and selective data inclusion.
 ## Key Findings
 
-**Gender Differences:** Women had a significantly higher survival rate than men.
+**Gender Survival:** An honest breakdown shows significant survival disparities, with females having a 74.2% survival rate compared to 18.9% for males.
 
-**Passenger Class Impact:** First-class passengers were more likely to survive than second- or third-class.
+**Port Distribution:** Southampton was the primary embarkation point (644 passengers), yet it recorded the lowest survival rate (33.7%) compared to Cherbourg (55.4%) and Queenstown (39.0%).
 
-**Ethical Insight:** Misleading charts—like truncated axes or cherry-picked data—can distort interpretation, so transparency is essential.
+**Impact of Omission:** Removing the largest data group (Southampton) completely shifts the narrative from one of mass tragedy to one of relative survival success, demonstrating how easily a "majority story" can be erased.
 
-**Visual Examples:**
-
-- Accurate visualizations: accurate_survival_by_gender.png, accurate_survival_by_class.png
-
-- Misleading visualizations: misleading_gender_chart.png, misleading_class_chart.png
 ## Ethical Considerations
 
 In this project, ethical visualization practices were a key focus. All relevant categories were included in each chart to ensure no data was hidden or misrepresented. Axes and scales were carefully maintained to avoid exaggerating differences or misleading viewers. Clear titles, labels, and percentages were provided so that anyone reviewing the charts could accurately interpret the data. Misleading visualizations were intentionally created and clearly marked to demonstrate common pitfalls, highlighting the importance of transparency and honesty in data presentation.
+
+## Conclusion
+
+The project concludes that data visualization is a powerful communication tool that carries a heavy moral responsibility. It reinforces that a data scientist’s foremost duty is to prioritize integrity, completeness, and transparency. Insights must always reflect the true story of the data rather than a manipulated narrative designed to fit a specific agenda.

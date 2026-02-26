@@ -1,0 +1,145 @@
+Mahendra  0:02  
+Hi, guys, how are you I'm doing good. How are you doing? Guys, I'm good.
+
+Mounika  0:07  
+Thanks for asking. So since we already selected our four representative chats, maybe we can quickly review the Google Doc and make sure our methodologies and explanations are clear and not back, right? So yeah,
+
+Mahendra  0:21  
+you can discuss what shots you're going through and like as we discussed it in the library, like we have discussed all the 16 charts which we have represented with the 14 part, and you can discuss your part. And after that, we can continue.
+
+Mounika  0:34  
+Okay, so for my part, so my first recorded chat, I showed several rate by gender. So I calculated several rate using the mean of the survey variable. The y axis starts at zero, so the comparison is fair, right? So it clearly shows the woman had the much higher civil rate than men. And my second accurate chat shows several rate by passenger class. So first class passengers had the higher several rate and third had the lowest. I included all the classes and use the same scale, so it gives a fair comparison. And for misleading, I've used manipulated y axis and and also the cherry pick data. So here I showed only first class passengers. You know, by excluding the other classes, it gives an income incomplete picture, and make sure several look higher than it is actually, was, so, yeah, this is my work.
+
+Venu Dassireddy  1:25  
+What would you guys, we have seen your work,
+
+Mahendra  1:28  
+yeah, yeah. Like, I have gone through a line chat. Like you're going through bar charts, right? Yes, yes, the line charts, like was,
+
+Venu Dassireddy  1:41  
+but, yeah, but I have used the different visualization,
+
+Mahendra  1:45  
+yeah, different pie charts. I think he had used the other one, like line graph and pie charts are different. I'm using pie charts, yeah, yeah, in my visualizations, I have found I have worked on through survival by age group, like anger, passengers, especially children, were prioritized during the rescue, but the difference across adult age group were moderate and not extreme. I think in my accurate visualization, I find this one, and I have another visualization, which was a survivor by class, like Ember,
+
+Mounika  2:25  
+impact port, right embat
+
+Mahendra  2:27  
+board, like I have used that one, which was passenger, class was the strongest projector of survival and status clearly influenced the outcomes. Like you can see four different lines were represent in the graph, and it's very clean and clear we can represent in our report, I think, and in other part, in misleading I have worked with two survival where fair day decline without a full access and proper context. The chart could fairly suggest that the playing more directly guarantee survival, and which is similar to the decline part, I think. And now the other one was survival, was age, which was a cherry picker, which chart was used by the Monica in the last part. It was similar to that, but you can see a different outcome with the line chart and bar graph. And these four were made by me, and we can pick one of these, I think the second chat,
+
+Mounika  3:28  
+the four years more, if you want, like, not just four chats we already discussed. And, yeah,
+
+Mahendra  3:33  
+yeah, yeah, in library we have, like this will add the all the 16 chats, like, we can pick the four which was the best, and rather than that, we can choose two to three to represent in our report. I think, yes, yes, yeah, guys, please tell us Venu and Kartik your visualizations about how it went through, we can project.
+
+Venu Dassireddy  3:57  
+I want to choose something different, you know, from just gender and passenger passenger class. Since the those two are the most commonly used patterns, everyone noticed them first. You know, I hope I focused on the fade category and family size. I thought those were interesting for me because they show some economic consortium structure, rather than just gender and class labels for the fake category chart, I group ticket price into four rows and calculated survival percentage. I made sure that the y axis starts from zero, and I use the percentage instead of rock points, so the comparison looks somewhat fair. For the family size, I categorize the passengers as a travel traveling alone, yeah, in small families or large families. That helped me to simplify the pattern and make it easier to interact for the misleading coming to the misleading visualizations, I wanted to show something different to this correlation, instead of manipulating the y axis of filtering the. Class you guys have done with that. So I used to stake it counts instead of survival rates. That can be misleading, because Lords group nature, they have more survivors. So it might look like server will change, changes or higher, even if the percentages is not there in that I also use another chart to show how design choices like highlighting or layout can influence how viewers interrupt the data. When working with this project, I got to know something like the visualization is just not about analysis, but also the responsibility. Yeah, that's what, yes, yeah. What do you say? Is right, that's what, what I did from my individual contribution, yeah,
+
+Speaker 1  6:06  
+yeah, I think my I'm working with mainly intentionally misleading visualization is About like misleading chart. I was using pie charts, right? Hello, yeah, yeah, yes, yeah, so yeah, I can working with pie charts is mainly same as like Venu. I
+
+Venu Dassireddy  6:47  
+Yeah, we have seen your it's come it's somewhat different from my, from mine, but it looks pretty good.
+
+Mounika  6:56  
+Yeah, he used pie charts, right?
+
+Venu Dassireddy  6:59  
+I use pie charts, but I have used bar charts for
+
+Mounika  7:03  
+most of chatters for
+
+Mahendra  7:06  
+this, yeah, we can clearly see the percentage wise, like, how he has paid, the survival and age groups and different kind of parts with the different kind of shades. I think it's very easy to understand for the client orientation, yes.
+
+Mounika  7:18  
+So what do you guys think that does our ethical discussion clearly explains how design choices, like scaling, filtering animation can influence interpretation. Yes, I think so. If everything looks consistent and clear, we can finalize the document and prepare to explain at least one accurate and must one misleading technique in case we randomly selected.
+
+Mahendra  7:38  
+No, yeah, we can go through that one, right, like you can choose each of one, which one is accurate and which one was a misleading. And after that, we can go through the other part, like one of the pie charts and one was any other, yeah,
+
+Mounika  7:55  
+available, four charts. But so anyway, we have class today. After that, we can meet in library, and we can discuss
+
+Venu Dassireddy  8:02  
+about we can include like, different, like,
+
+Mounika  8:04  
+if you want. We can, we'll review,
+
+Venu Dassireddy  8:08  
+yeah, we can include like, got like so
+
+Mounika  8:12  
+we need to meet again in the library after our class, yeah, got some time? Yeah. We just conclude everything and
+
+Mahendra  8:23  
+we can, yeah, we'll prepare the report and we'll submit the document.
+
+Mounika  8:28  
+Yes, we need to edit some things in report.
+
+Mahendra  8:31  
+Yeah. And again, I got the text from the Catholic like he had him system issue. I think it was a rebooting again, and he couldn't able to speak.
+
+Mounika  8:41  
+Okay, that's, that's fine. We can meet an in person like he can speak. We already reviewed his work, right?
+
+Mahendra  8:46  
+So, yeah, exactly like we had seen his visualization. That's why we don't. That's pretty good.
+
+Venu Dassireddy  8:53  
+Yeah, anything else?
+
+Mahendra  8:57  
+Yeah, that's it. I think if you, if you guys are completing with the report, we can submit it?
+
+Mounika  9:03  
+Yeah, we already completed it somewhat since the professor mentioned last time that our writing was wag and so let's, let's just confirm that our methodology clearly explains how we calculated so well rate and everything, and that we mentioned the use of group by for comparisons,
+
+Mahendra  9:22  
+yeah, and I have completed my report, and I need to upload it into the Google Docs, and I'll do that right now.
+
+Mounika  9:30  
+Yeah, even me too. We'll just update it. And so by the end of our class, you know, after the class, we can meet in library,
+
+Venu Dassireddy  9:38  
+yeah, you know, I got some work after, after the class. Yeah, okay, yeah, I'll be uploading.
+
+Mounika  9:48  
+Just let me know when you guys are free so we can meet and we can submit everything, like GitHub links and everything.
+
+Mahendra  9:58  
+Yeah, have you guys updated? Data.
+
+Mounika  10:01  
+Oh, yeah, I've completed my I've uploaded my work.
+
+Mahendra  10:05  
+Yeah, I have uploaded
+
+Mounika  10:07  
+update the readme file for overall project. I didn't so we need to complete
+
+Mahendra  10:12  
+it today. Yeah, I need to do that too. I'll try to,
+
+Mounika  10:16  
+yeah, completely. File
+
+Venu Dassireddy  10:19  
+is basically,
+
+Mounika  10:21  
+so every part is done, right, like what we discussed in our previous discussion, so everything was almost completed.
+
+Mahendra  10:32  
+Yeah, we can wind up the class. I think, okay.
+
+Mounika  10:37  
+Okay, nice to meet you. Thank you guys. You too. Bye.
+
+Transcribed by https://otter.ai

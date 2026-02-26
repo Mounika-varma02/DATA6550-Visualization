@@ -1,0 +1,148 @@
+Speaker 1  0:04  
+To start. Okay.
+
+Mounika  0:06  
+So Hi everyone. So this is our first meeting for this project. Maybe we can quickly go over the assignment requirements and decide how we want to divide the work.
+
+Venu Dassireddy  0:16  
+So have everyone gone to the data set? Yeah.
+
+Mounika  0:20  
+So from what I understand, is like from each of us need to create two accurate and two misleading visualizations, right? So using a titanic data set, so maybe we can confirm that first and so that we can focus on different variables, we don't, we don't all repeat the same charts.
+
+Venu Dassireddy  0:42  
+Yeah, that's what everyone post on, what visualization they are working on, product. It won't get clumsy, you know, yeah.
+
+Mahendra  0:53  
+Like, if you guys fixing for you are you want to work in bar plots or line graphs or pie charts, like we're gonna do other things which are rather than that.
+
+Venu Dassireddy  1:06  
+I guess we can use this, like same charts, but the visualization should be different.
+
+Mounika  1:12  
+Yeah, the variables should be different, actually. So I'm thinking of doing bar charts, so like using the server, I mean, for the accurate visualizations I was I was thinking to do survival by gender and survival by passenger class, and for misleading I've been thinking to do manipulated y axis and cherry pick data. So I need to go through it, and also just forgot to say that we should decide who will start up the Google doc structure so we can gradually add our sections and all that. Yeah, that's true. So what variables are you guys planning to work on?
+
+Mahendra  2:00  
+To work on the line graphs, which is depends upon the survival rate and age groups and other graphs, it should be like same thing, survival rate and passenger class and with the same line graphs, which that Y axis runs on zero to 100% and we can see the difference which are exaggerated, and it's clearly show word and visualization, honest and transparent. Yeah, I was working to two other things, which are survival rate with deepest and most expensive fair decline. And the other thing, I want to work through several and age group with the blind rep again.
+
+Mounika  2:52  
+Okay, line chart is that difficult, right? It's bit complex, but yeah, that's a good idea.
+
+Mahendra  3:02  
+If you plot the variables clearly. Like, it's very easy to figure it out. I think,
+
+Naga Karthik  3:09  
+okay, yeah, I was thinking I was working with pie chart, like pie chart trip and proportion of surviving, I think survival distribution by gender, so visualization is clearly like gender.
+
+Mounika  3:30  
+I guess that's my chat and misleading. You know, I've already completed the I mean, I've been thinking to do that.
+
+Naga Karthik  3:40  
+And, yeah, it's, it's not like different charts and different variables, right? Okay, is it? Is it unique? Yeah, I was thinking to do that, but, okay, yeah,
+
+Venu Dassireddy  3:55  
+I was planning to for the accurate visualization. I was trying to use group on family size, you know, with the bar chart, okay for the misleading or planning to use our y axis manipulation on first class filtering, that's what I was planning. Is anyone planning to do that?
+
+Mounika  4:19  
+Yeah, misleading, like, like I said, like I was working on the misleading,
+
+Venu Dassireddy  4:24  
+yeah, exported pie chart. I was working for the second misleading one, using the pie chart. Okay,
+
+Mahendra  4:39  
+you think we need to discuss in this like we are bit clear about which person need to work on which section. And if you complete with the your coding part, after that reporting part, and we can start with the report, and we can best
+
+Venu Dassireddy  4:55  
+visualizations from
+
+Mounika  4:57  
+four of so we need to, yeah, after. Our work, then we need to consider, we need to confirm, like which are the best to occur it into this meeting, review everyone's work and yes, yes, we can discuss that on next meeting. Yeah,
+
+Mahendra  5:15  
+going to report in the report, I've
+
+Mounika  5:20  
+been thinking. So from my from my opinion, I've been thinking to add two to best and two misleading, like two bad visualizations. So what do you guys think?
+
+Mahendra  5:29  
+Let's see if we get a good visualizations of, like, different kind of
+
+Venu Dassireddy  5:34  
+Yeah, else we can have specification. I mean, is there any particular number we should include in the report?
+
+Mounika  5:44  
+Sorry, come again,
+
+Mahendra  5:46  
+mention any specific number of his village?
+
+Mounika  5:50  
+No hidden I guess, yeah,
+
+Venu Dassireddy  5:53  
+then we can, yeah, gonna be so exactly we can choose, like, three or four. Yeah, depends. It's not
+
+Mounika  6:05  
+precise, okay, but yeah, we can add more. Sounds good. What about the Google Doc? Like, how do we divide our works, too?
+
+Venu Dassireddy  6:18  
+That's like, the same from last time we did, but we need to make sure to review
+
+Mounika  6:26  
+everything feedback. We need to make sure that there'll be no
+
+Venu Dassireddy  6:31  
+Yeah, from that, we need to write the report, you know, yeah, we'll defend the work later on, after completing this visualizations.
+
+Mounika  6:43  
+But okay, but we need to, we need to know, right? We need to discuss about that, because we need to do something in Google Doc. It should be completed by our second discussion. Yeah.
+
+Venu Dassireddy  6:56  
+I mean, yeah. Now we'll be working on this, you know, like visualization, like, firstly we will be working on this. After that, we can divide the work, what we need to include in the report, and we can, I think we can do that later on, or else we can plan now as well, like, who wants to work on which part?
+
+Mounika  7:23  
+What do you guys think? Mahindra Kartik, yeah. Can we debate it now? Because, you know we need to compare. Yeah. So you guys are thinking like, which part you guys, you guys want to work on,
+
+Naga Karthik  7:46  
+yeah, we can divide out our report,
+
+Mounika  7:50  
+so I'll work on introduction and data description, and someone should work On methodology and accurate visualizations,
+
+Mahendra  7:59  
+methodology and accurate Okay?
+
+Mounika  8:02  
+And, and the next one is like, I guess misleading visualizations and ethical discussion, someone should work on that.
+
+Speaker 2  8:08  
+Yeah, I can go for misleading and I guess
+
+Mounika  8:15  
+collaboration and contribution and conclusion,
+
+Venu Dassireddy  8:17  
+yes, yeah, yeah. And,
+
+Mounika  8:20  
+yes, there won't be any references for this Google Doc,
+
+Mahendra  8:31  
+because, as per our last review, like we need to go through all the reports which you have, individual reports specifically mentioned the agenda of the whole team.
+
+Mounika  8:40  
+Yes, exactly. That's what he wants.
+
+Venu Dassireddy  8:44  
+Yeah, okay, yeah,
+
+Mahendra  8:51  
+that's it, I think. Okay, so that's
+
+Mounika  8:54  
+it to talk about. Yes, we'll talk about it later on our second discussion. Okay, okay, thank you guys, okay, thank you. Have a great
+
+Venu Dassireddy  9:04  
+day. Enjoy the day.
+
+Transcribed by https://otter.ai
